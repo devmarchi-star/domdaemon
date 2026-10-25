@@ -7,7 +7,7 @@ A fast, terminal daemon built with **go** to see and capture domain.
 ---
 ## 👨‍💻 about me
 
-- im an 11 years old Moroccan developer, i now python HTML CSS bash and go, so please support me
+- im an Moroccan developer, i now python HTML CSS bash and go, so please support me
 
 ## 📦 how to run it in the terminal
 - type:
