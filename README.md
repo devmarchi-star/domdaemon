@@ -9,11 +9,13 @@ A fast, terminal daemon built with **go** to see and capture domain.
 
 - im an 11 years old Moroccan developer, i now python HTML CSS bash and go, so please support me
 
-## 📦 how to make a post request in the terminal
-- use this command and replace "the+cat.." with your prompt:
+## 📦 how to run it in the terminal
+- type:
 ```bash
-curl "http://localhost:8080/?prompt=the+cat+saved+a+missel+shot"
+git clone "https://github.com/devmarchi-star/domdaemon"
 ```
-for a better guide go to the release page it has the latest documentary.
-
+-then type:
+```bash
+go run main.go
+```
 so thank you very much for seeing this, and enjoy!🚀.
